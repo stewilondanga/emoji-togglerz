@@ -253,11 +253,11 @@ body {
 }
 
 /* Thumbs Up/Down Toggle */
-/*.thumbs-up-down .toggle-btn::after {
-    content: '👍';
+.thumbs-up-down .toggle-btn::after {
+  content: '👍';
 }
 
-.thumbs-up-down .toggle-checkbox:checked + .toggle-btn::after {
+/*.thumbs-up-down .toggle-checkbox:checked + .toggle-btn::after {
     content: '👎';
 }
 
