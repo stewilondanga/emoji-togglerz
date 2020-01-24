@@ -68,8 +68,8 @@ body {
   content: '😁';
 }
 
-/*.happy-sad .toggle-checkbox:checked + .toggle-btn::after {
-    content: '😭';
+.happy-sad .toggle-checkbox:checked+.toggle-btn::after {
+  content: '😭';
 }
 
 /* Love/Hate Toggle */
