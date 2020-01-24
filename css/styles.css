@@ -140,8 +140,8 @@ body {
   content: '💘';
 }
 
-/*.heart-break .toggle-checkbox:checked + .toggle-btn::after {
-    content: '💔';
+.heart-break .toggle-checkbox:checked+.toggle-btn::after {
+  content: '💔';
 }
 
 /* Bomb/Explode Toggle */
