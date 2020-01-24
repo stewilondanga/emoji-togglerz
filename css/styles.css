@@ -271,11 +271,11 @@ body {
 }
 
 /* Up/Down Toggle */
-/*.up-down .toggle-btn::after {
-    content: '👆';
+.up-down .toggle-btn::after {
+  content: '👆';
 }
 
-.up-down .toggle-checkbox:checked + .toggle-btn::after {
+/*.up-down .toggle-checkbox:checked + .toggle-btn::after {
     content: '👇';
 }
 
