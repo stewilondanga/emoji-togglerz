@@ -266,8 +266,8 @@ body {
   content: '👈';
 }
 
-/*.left-right .toggle-checkbox:checked + .toggle-btn::after {
-    content: '👉';
+.left-right .toggle-checkbox:checked+.toggle-btn::after {
+  content: '👉';
 }
 
 /* Up/Down Toggle */
