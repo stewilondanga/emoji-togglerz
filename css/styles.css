@@ -100,12 +100,11 @@ body {
 }
 
 /* Male/Female Toggle */
-/*
 .male-female .toggle-btn::after {
-    content: '👨';
+  content: '👨';
 }
 
-.male-female .toggle-checkbox:checked + .toggle-btn::after {
+/*.male-female .toggle-checkbox:checked + .toggle-btn::after {
     content: '👩';
 }
 
