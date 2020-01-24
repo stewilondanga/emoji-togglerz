@@ -158,8 +158,8 @@ body {
   content: '🥚';
 }
 
-/*.egg-shell-fry .toggle-checkbox:checked + .toggle-btn::after {
-    content: '🍳';
+.egg-shell-fry .toggle-checkbox:checked+.toggle-btn::after {
+  content: '🍳';
 }
 
 /* Takeoff/Land Toggle */
