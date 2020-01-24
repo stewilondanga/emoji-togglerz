@@ -194,8 +194,8 @@ body {
   content: '🔒';
 }
 
-/*.lock-unlock .toggle-checkbox:checked + .toggle-btn::after {
-    content: '🔓';
+.lock-unlock .toggle-checkbox:checked+.toggle-btn::after {
+  content: '🔓';
 }
 
 /* Chick/Chicken Toggle */
