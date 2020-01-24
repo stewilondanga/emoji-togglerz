@@ -91,12 +91,11 @@ body {
 }
 
 /* Young/Old Toggle */
-/*
 .young-old .toggle-btn::after {
-    content: '👶';
+  content: '👶';
 }
 
-.young-old .toggle-checkbox:checked + .toggle-btn::after {
+/*.young-old .toggle-checkbox:checked + .toggle-btn::after {
     content: '👴';
 }
 
