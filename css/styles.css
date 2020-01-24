@@ -127,12 +127,11 @@ body {
 }
 
 /* Fire/Water Toggle */
-/*
 .fire-water .toggle-btn::after {
-    content: '🔥';
+  content: '🔥';
 }
 
-.fire-water .toggle-checkbox:checked + .toggle-btn::after {
+/*.fire-water .toggle-checkbox:checked + .toggle-btn::after {
     content: '💧';
 }
 
