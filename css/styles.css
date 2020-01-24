@@ -118,12 +118,11 @@ body {
 }
 
 /* Sun/Moon Toggle */
-/*
 .sun-moon .toggle-btn::after {
-    content: '🌞';
+  content: '🌞';
 }
 
-.sun-moon .toggle-checkbox:checked + .toggle-btn::after {
+/*.sun-moon .toggle-checkbox:checked + .toggle-btn::after {
     content: '🌚';
 }
 
