@@ -95,8 +95,8 @@ body {
   content: '👶';
 }
 
-/*.young-old .toggle-checkbox:checked + .toggle-btn::after {
-    content: '👴';
+.young-old .toggle-checkbox:checked+.toggle-btn::after {
+  content: '👴';
 }
 
 /* Male/Female Toggle */
