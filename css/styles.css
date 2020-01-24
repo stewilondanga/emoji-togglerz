@@ -154,12 +154,11 @@ body {
 }
 
 /* Egg Shell/Fry Toggle */
-/*
 .egg-shell-fry .toggle-btn::after {
-    content: '🥚';
+  content: '🥚';
 }
 
-.egg-shell-fry .toggle-checkbox:checked + .toggle-btn::after {
+/*.egg-shell-fry .toggle-checkbox:checked + .toggle-btn::after {
     content: '🍳';
 }
 
