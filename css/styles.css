@@ -257,8 +257,8 @@ body {
   content: '👍';
 }
 
-/*.thumbs-up-down .toggle-checkbox:checked + .toggle-btn::after {
-    content: '👎';
+.thumbs-up-down .toggle-checkbox:checked+.toggle-btn::after {
+  content: '👎';
 }
 
 /* Left/Right Toggle */
