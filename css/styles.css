@@ -77,8 +77,8 @@ body {
   content: '😍';
 }
 
-/*.love-hate .toggle-checkbox:checked + .toggle-btn::after {
-    content: '😡';
+.love-hate .toggle-checkbox:checked+.toggle-btn::after {
+  content: '😡';
 }
 
 /* Nerd/Cool Toggle */
