@@ -172,12 +172,11 @@ body {
 }
 
 /* Hourglass Start/End Toggle */
-/*
 .hourglass-start-end .toggle-btn::after {
-    content: '⏳';
+  content: '⏳';
 }
 
-.hourglass-start-end .toggle-checkbox:checked + .toggle-btn::after {
+/*.hourglass-start-end .toggle-checkbox:checked + .toggle-btn::after {
     content: '⌛';
 }
 
