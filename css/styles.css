@@ -185,8 +185,8 @@ body {
   content: '🔉';
 }
 
-/*.speaker-low-high .toggle-checkbox:checked + .toggle-btn::after {
-    content: '🔊';
+.speaker-low-high .toggle-checkbox:checked+.toggle-btn::after {
+  content: '🔊';
 }
 
 /* Lock/Unlock Toggle */
