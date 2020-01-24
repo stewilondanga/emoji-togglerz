@@ -275,12 +275,11 @@ body {
   content: '👆';
 }
 
-/*.up-down .toggle-checkbox:checked + .toggle-btn::after {
-    content: '👇';
+.up-down .toggle-checkbox:checked+.toggle-btn::after {
+  content: '👇';
 }
 
-
-.containers {
+/*.containers {
   width: 520px;
   margin: 20px auto;
 }
