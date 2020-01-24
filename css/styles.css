@@ -226,12 +226,11 @@ body {
 }
 
 /* Fish/Sushi Toggle */
-/*
 .fish-sushi .toggle-btn::after {
-    content: '🐟';
+  content: '🐟';
 }
 
-.fish-sushi .toggle-checkbox:checked + .toggle-btn::after {
+/*.fish-sushi .toggle-checkbox:checked + .toggle-btn::after {
     content: '🍣';
 }
 
