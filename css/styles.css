@@ -86,8 +86,8 @@ body {
   content: '🤓';
 }
 
-/*.nerd-cool .toggle-checkbox:checked + .toggle-btn::after {
-    content: '😎';
+.nerd-cool .toggle-checkbox:checked+.toggle-btn::after {
+  content: '😎';
 }
 
 /* Young/Old Toggle */
