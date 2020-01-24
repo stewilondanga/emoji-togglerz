@@ -136,12 +136,11 @@ body {
 }
 
 /* Heart/Break Toggle */
-/*
 .heart-break .toggle-btn::after {
-    content: '💘';
+  content: '💘';
 }
 
-.heart-break .toggle-checkbox:checked + .toggle-btn::after {
+/*.heart-break .toggle-checkbox:checked + .toggle-btn::after {
     content: '💔';
 }
 
