@@ -82,12 +82,11 @@ body {
 }
 
 /* Nerd/Cool Toggle */
-/*
 .nerd-cool .toggle-btn::after {
-    content: '🤓';
+  content: '🤓';
 }
 
-.nerd-cool .toggle-checkbox:checked + .toggle-btn::after {
+/*.nerd-cool .toggle-checkbox:checked + .toggle-btn::after {
     content: '😎';
 }
 
