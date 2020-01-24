@@ -239,8 +239,8 @@ body {
   content: '🐛';
 }
 
-/*.caterpillar-butterfly .toggle-checkbox:checked + .toggle-btn::after {
-    content: '🦋';
+.caterpillar-butterfly .toggle-checkbox:checked+.toggle-btn::after {
+  content: '🦋';
 }
 
 /* Seedling/Flower Toggle */
