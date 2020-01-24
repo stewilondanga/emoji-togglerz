@@ -199,12 +199,11 @@ body {
 }
 
 /* Chick/Chicken Toggle */
-/*
 .chick-chicken .toggle-btn::after {
-    content: '🐣';
+  content: '🐣';
 }
 
-.chick-chicken .toggle-checkbox:checked + .toggle-btn::after {
+/*.chick-chicken .toggle-checkbox:checked + .toggle-btn::after {
     content: '🐓';
 }
 
