@@ -235,12 +235,11 @@ body {
 }
 
 /* Caterpillar/Butterfly Toggle */
-/*
 .caterpillar-butterfly .toggle-btn::after {
-    content: '🐛';
+  content: '🐛';
 }
 
-.caterpillar-butterfly .toggle-checkbox:checked + .toggle-btn::after {
+/*.caterpillar-butterfly .toggle-checkbox:checked + .toggle-btn::after {
     content: '🦋';
 }
 
