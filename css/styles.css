@@ -221,8 +221,8 @@ body {
   content: '🐖';
 }
 
-/*.pig-bacon .toggle-checkbox:checked + .toggle-btn::after {
-    content: '🥓';
+.pig-bacon .toggle-checkbox:checked+.toggle-btn::after {
+  content: '🥓';
 }
 
 /* Fish/Sushi Toggle */
