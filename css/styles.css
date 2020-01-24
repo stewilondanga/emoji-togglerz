@@ -167,8 +167,8 @@ body {
   content: '🛫';
 }
 
-/*.takeoff-land .toggle-checkbox:checked + .toggle-btn::after {
-    content: '🛬';
+.takeoff-land .toggle-checkbox:checked+.toggle-btn::after {
+  content: '🛬';
 }
 
 /* Hourglass Start/End Toggle */
