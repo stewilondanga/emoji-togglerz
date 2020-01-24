@@ -73,12 +73,11 @@ body {
 }
 
 /* Love/Hate Toggle */
-/*
 .love-hate .toggle-btn::after {
-    content: '😍';
+  content: '😍';
 }
 
-.love-hate .toggle-checkbox:checked + .toggle-btn::after {
+/*.love-hate .toggle-checkbox:checked + .toggle-btn::after {
     content: '😡';
 }
 
