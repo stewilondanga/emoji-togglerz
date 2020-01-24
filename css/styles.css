@@ -181,12 +181,11 @@ body {
 }
 
 /* Speaker Low/High Toggle */
-/*
 .speaker-low-high .toggle-btn::after {
-    content: '🔉';
+  content: '🔉';
 }
 
-.speaker-low-high .toggle-checkbox:checked + .toggle-btn::after {
+/*.speaker-low-high .toggle-checkbox:checked + .toggle-btn::after {
     content: '🔊';
 }
 
