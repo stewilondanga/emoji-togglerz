@@ -163,12 +163,11 @@ body {
 }
 
 /* Takeoff/Land Toggle */
-/*
 .takeoff-land .toggle-btn::after {
-    content: '🛫';
+  content: '🛫';
 }
 
-.takeoff-land .toggle-checkbox:checked + .toggle-btn::after {
+/*.takeoff-land .toggle-checkbox:checked + .toggle-btn::after {
     content: '🛬';
 }
 
