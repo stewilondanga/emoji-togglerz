@@ -6,6 +6,17 @@
   box-sizing: border-box;
 }
 
+body {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  min-height: 100vh;
+  overflow-x: hidden;
+  background-color: #13fccd;
+}
+
 /*body {
   text-align: center;
   font-family: courier;
@@ -31,16 +42,6 @@
 
 
 
-body {
-    display: flex;
-    justify-content: center;
-	align-content: center;
-    align-items: center;
-	flex-wrap: wrap;
-    min-height: 100vh;
-	overflow-x: hidden;
-    background-color: #13fccd;
-}
 
 .toggle {
     position: relative;
