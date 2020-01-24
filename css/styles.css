@@ -145,12 +145,11 @@ body {
 }
 
 /* Bomb/Explode Toggle */
-/*
 .bomb-explode .toggle-btn::after {
-    content: '💣';
+  content: '💣';
 }
 
-.bomb-explode .toggle-checkbox:checked + .toggle-btn::after {
+/*.bomb-explode .toggle-checkbox:checked + .toggle-btn::after {
     content: '💥';
 }
 
