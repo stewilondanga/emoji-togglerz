@@ -149,8 +149,8 @@ body {
   content: '💣';
 }
 
-/*.bomb-explode .toggle-checkbox:checked + .toggle-btn::after {
-    content: '💥';
+.bomb-explode .toggle-checkbox:checked+.toggle-btn::after {
+  content: '💥';
 }
 
 /* Egg Shell/Fry Toggle */
