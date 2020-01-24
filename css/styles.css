@@ -131,8 +131,8 @@ body {
   content: '🔥';
 }
 
-/*.fire-water .toggle-checkbox:checked + .toggle-btn::after {
-    content: '💧';
+.fire-water .toggle-checkbox:checked+.toggle-btn::after {
+  content: '💧';
 }
 
 /* Heart/Break Toggle */
