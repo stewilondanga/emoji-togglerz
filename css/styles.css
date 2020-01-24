@@ -113,8 +113,8 @@ body {
   content: '🤴';
 }
 
-/*.king-queen .toggle-checkbox:checked + .toggle-btn::after {
-    content: '👸';
+.king-queen .toggle-checkbox:checked+.toggle-btn::after {
+  content: '👸';
 }
 
 /* Sun/Moon Toggle */
