@@ -190,12 +190,11 @@ body {
 }
 
 /* Lock/Unlock Toggle */
-/*
 .lock-unlock .toggle-btn::after {
-    content: '🔒';
+  content: '🔒';
 }
 
-.lock-unlock .toggle-checkbox:checked + .toggle-btn::after {
+/*.lock-unlock .toggle-checkbox:checked + .toggle-btn::after {
     content: '🔓';
 }
 
