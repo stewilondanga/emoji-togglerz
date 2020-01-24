@@ -230,8 +230,8 @@ body {
   content: '🐟';
 }
 
-/*.fish-sushi .toggle-checkbox:checked + .toggle-btn::after {
-    content: '🍣';
+.fish-sushi .toggle-checkbox:checked+.toggle-btn::after {
+  content: '🍣';
 }
 
 /* Caterpillar/Butterfly Toggle */
