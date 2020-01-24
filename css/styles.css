@@ -248,8 +248,8 @@ body {
   content: '🌱';
 }
 
-/*.seedling-flower .toggle-checkbox:checked + .toggle-btn::after {
-    content: '🌷';
+.seedling-flower .toggle-checkbox:checked+.toggle-btn::after {
+  content: '🌷';
 }
 
 /* Thumbs Up/Down Toggle */
