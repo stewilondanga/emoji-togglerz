@@ -262,11 +262,11 @@ body {
 }
 
 /* Left/Right Toggle */
-/*.left-right .toggle-btn::after {
-    content: '👈';
+.left-right .toggle-btn::after {
+  content: '👈';
 }
 
-.left-right .toggle-checkbox:checked + .toggle-btn::after {
+/*.left-right .toggle-checkbox:checked + .toggle-btn::after {
     content: '👉';
 }
 
