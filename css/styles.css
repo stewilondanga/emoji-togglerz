@@ -104,8 +104,8 @@ body {
   content: '👨';
 }
 
-/*.male-female .toggle-checkbox:checked + .toggle-btn::after {
-    content: '👩';
+.male-female .toggle-checkbox:checked+.toggle-btn::after {
+  content: '👩';
 }
 
 /* King/Queen Toggle */
