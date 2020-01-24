@@ -32,21 +32,19 @@ body {
   height: 1.5em;
 }
 
-/*
-
 .toggle {
-    position: relative;
-    width: 1em;
-    height: 0.1em;
-    border-radius: 0.5em;
-    border: 0.015em solid #9f9f9f;
-    background-image: linear-gradient(#f2f2f2, #fff, #f2f2f2);
-	margin: 0.26em 0.15em;
-    cursor: pointer;
-	filter: drop-shadow(0.015em 0.015em 0.01em rgba(0, 0, 0, 0.3))
+  position: relative;
+  width: 1em;
+  height: 0.1em;
+  border-radius: 0.5em;
+  border: 0.015em solid #9f9f9f;
+  background-image: linear-gradient(#f2f2f2, #fff, #f2f2f2);
+  margin: 0.26em 0.15em;
+  cursor: pointer;
+  filter: drop-shadow(0.015em 0.015em 0.01em rgba(0, 0, 0, 0.3))
 }
 
-.toggle-btn::after {
+/*.toggle-btn::after {
     position: absolute;
     top: -0.14rem;
 	left: 0;
