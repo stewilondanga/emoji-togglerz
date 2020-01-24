@@ -212,8 +212,8 @@ body {
   content: '🐄';
 }
 
-/*.cow-milk .toggle-checkbox:checked + .toggle-btn::after {
-    content: '🥛';
+.cow-milk .toggle-checkbox:checked+.toggle-btn::after {
+  content: '🥛';
 }
 
 /* Pig/Bacon Toggle */
