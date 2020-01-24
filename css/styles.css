@@ -59,8 +59,8 @@ body {
   visibility: hidden;
 }
 
-/*.toggle-checkbox:checked + .toggle-btn::after {
-	left: 50%;
+.toggle-checkbox:checked+.toggle-btn::after {
+  left: 50%;
 }
 
 /* Happy/Sad Toggle */
