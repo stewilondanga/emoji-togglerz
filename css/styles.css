@@ -176,8 +176,8 @@ body {
   content: '⏳';
 }
 
-/*.hourglass-start-end .toggle-checkbox:checked + .toggle-btn::after {
-    content: '⌛';
+.hourglass-start-end .toggle-checkbox:checked+.toggle-btn::after {
+  content: '⌛';
 }
 
 /* Speaker Low/High Toggle */
