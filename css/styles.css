@@ -122,8 +122,8 @@ body {
   content: '🌞';
 }
 
-/*.sun-moon .toggle-checkbox:checked + .toggle-btn::after {
-    content: '🌚';
+.sun-moon .toggle-checkbox:checked+.toggle-btn::after {
+  content: '🌚';
 }
 
 /* Fire/Water Toggle */
