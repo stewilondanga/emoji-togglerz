@@ -1,3 +1,7 @@
+:root {
+  font-size: calc(5em + 20vw);
+}
+
 /*body {
   text-align: center;
   font-family: courier;
@@ -21,9 +25,6 @@
   height: 1.5em;
 }
 
-:root {
-   font-size: calc(5em + 20vw);
-}
 
 * {
     box-sizing: border-box;
@@ -282,7 +283,6 @@ body {
 }
 
 /* Thumbs Up/Down Toggle */
-
 /*.thumbs-up-down .toggle-btn::after {
     content: '👍';
 }
@@ -292,7 +292,6 @@ body {
 }
 
 /* Left/Right Toggle */
-
 /*.left-right .toggle-btn::after {
     content: '👈';
 }
@@ -302,7 +301,6 @@ body {
 }
 
 /* Up/Down Toggle */
-
 /*.up-down .toggle-btn::after {
     content: '👆';
 }
