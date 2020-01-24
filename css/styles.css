@@ -244,12 +244,11 @@ body {
 }
 
 /* Seedling/Flower Toggle */
-/*
 .seedling-flower .toggle-btn::after {
-    content: '🌱';
+  content: '🌱';
 }
 
-.seedling-flower .toggle-checkbox:checked + .toggle-btn::after {
+/*.seedling-flower .toggle-checkbox:checked + .toggle-btn::after {
     content: '🌷';
 }
 
