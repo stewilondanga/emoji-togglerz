@@ -208,12 +208,11 @@ body {
 }
 
 /* Cow/Milk Toggle */
-/*
 .cow-milk .toggle-btn::after {
-    content: '🐄';
+  content: '🐄';
 }
 
-.cow-milk .toggle-checkbox:checked + .toggle-btn::after {
+/*.cow-milk .toggle-checkbox:checked + .toggle-btn::after {
     content: '🥛';
 }
 
